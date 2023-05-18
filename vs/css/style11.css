@@ -1,0 +1,129 @@
+* {
+    font-family: 'poppions';
+}
+
+.main-container {
+    display: flex;
+    width: 80%;
+    height: 400px;
+    justify-content: center;
+    margin-left: 40px;
+}
+
+.quba {
+    margin: 30px;
+    margin-left: 360px;
+}
+
+.basliq {
+    margin-left: 460px;
+    font-size: 35px;
+}
+
+.basliq1 {
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.quba1 {
+    margin-left: 415px;
+}
+
+.melumat1 {
+    margin-left: 430px;
+    width: 45%;
+}
+
+.basliq2 {
+    margin-top: 50px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.quba2 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat2 {
+    margin-left: 430px;
+    width: 50%;
+}
+
+.basliq3 {
+    margin-top: 50px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.quba3 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat3 {
+    margin-left: 430px;
+    width: 50%;
+}
+
+.basliq4 {
+    margin-top: 30px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.quba4 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat4 {
+    margin-left: 430px;
+    width: 50%;
+}
+
+.basliq5 {
+    margin-top: 30px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.quba5 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat5 {
+    margin-left: 430px;
+    width: 45%;
+}
+
+.basliq6 {
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.quba6 {
+    margin-left: 415px;
+}
+
+.melumat6 {
+    margin-left: 460px;
+    width: 50%;
+}
+
+.basliq7 {
+    margin-top: 50px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.quba7 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat7 {
+    margin-left: 430px;
+    width: 35%;
+}

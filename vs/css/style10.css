@@ -1,0 +1,113 @@
+* {
+    font-family: 'poppions';
+}
+
+.main-container {
+    display: flex;
+    width: 80%;
+    height: 400px;
+    justify-content: center;
+    margin-left: 40px;
+}
+
+.naxcivan {
+    margin: 30px;
+    margin-left: 290px;
+}
+
+.basliq {
+    margin-left: 460px;
+    font-size: 35px;
+}
+
+.basliq1 {
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.naxcivan1 {
+    margin-left: 415px;
+}
+
+.melumat1 {
+    margin-left: 440px;
+    width: 50%;
+}
+
+.basliq2 {
+    margin-top: 50px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.naxcivan2 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat2 {
+    margin-left: 430px;
+    width: 50%;
+}
+
+.basliq3 {
+    margin-top: 50px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.naxcivan3 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat3 {
+    margin-left: 430px;
+    width: 47%;
+}
+
+.basliq4 {
+    margin-top: 30px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.naxcivan4 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat4 {
+    margin-left: 420px;
+    width: 45%;
+}
+
+.basliq5 {
+    margin-top: 30px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.naxcivan5 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat5 {
+    margin-left: 430px;
+    width: 37%;
+}
+
+.basliq6 {
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.naxcivan6 {
+    margin-left: 415px;
+}
+
+.melumat6 {
+    margin-left: 430px;
+    width: 50%;
+}

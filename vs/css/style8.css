@@ -1,0 +1,163 @@
+* {
+    font-family: 'poppions';
+}
+
+.main-container {
+    display: flex;
+    width: 80%;
+    height: 400px;
+    justify-content: center;
+    margin-left: 40px;
+}
+
+.baki {
+    margin: 30px;
+    margin-left: 400px;
+}
+
+.basliq {
+    margin-left: 460px;
+    font-size: 35px;
+}
+
+.basliq1 {
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.baki1 {
+    margin-left: 415px;
+}
+
+.melumat1 {
+    margin-left: 430px;
+    width: 50%;
+}
+
+.basliq2 {
+    margin-top: 50px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.baki2 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat2 {
+    margin-left: 440px;
+    width: 50%;
+}
+
+.basliq3 {
+    margin-top: 50px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.baki3 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat3 {
+    margin-left: 440px;
+    width: 50%;
+}
+
+.basliq4 {
+    margin-top: 30px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.baki4 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat4 {
+    margin-left: 440px;
+    width: 50%;
+}
+
+.basliq5 {
+    margin-top: 30px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.baki5 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat5 {
+    margin-left: 440px;
+    width: 50%;
+}
+
+.basliq6 {
+    margin-top: 30px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.baki6 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat6 {
+    margin-left: 440px;
+    width: 50%;
+}
+
+.basliq7 {
+    margin-top: 30px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.baki7 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat7 {
+    margin-left: 450px;
+    width: 50%;
+}
+
+.basliq8 {
+    margin-top: 30px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.baki8 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat8 {
+    margin-left: 450px;
+    width: 50%;
+}
+
+.basliq9 {
+    margin-top: 30px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.baki9 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat9 {
+    margin-left: 450px;
+    width: 50%;
+}

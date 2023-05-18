@@ -1,0 +1,28 @@
+.cedvel {
+    width: 75%;
+    margin: 100px auto;
+    text-align: center;
+    background-color: rgb(255, 249, 144);
+    padding: 10px;
+    overflow: auto;
+}
+
+.cedvel-ici {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+.cedvel-ici th {
+    font-size: 20px;
+    color: black;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 7px;
+}
+
+.cedvel-ici td {
+    border: 1px solid #000000;
+    color: #000000;
+    padding: 8px;
+    font-size: 15px;
+}

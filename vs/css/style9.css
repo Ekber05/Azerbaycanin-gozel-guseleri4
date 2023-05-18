@@ -1,0 +1,177 @@
+* {
+    font-family: 'poppions';
+}
+
+.main-container {
+    display: flex;
+    width: 80%;
+    height: 400px;
+    justify-content: center;
+    margin-left: 40px;
+}
+
+.gence {
+    margin: 30px;
+    margin-left: 360px;
+}
+
+.basliq {
+    margin-left: 460px;
+    font-size: 35px;
+}
+
+.basliq1 {
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.gence1 {
+    margin-left: 415px;
+}
+
+.melumat1 {
+    margin-left: 420px;
+    width: 48%;
+}
+
+.basliq2 {
+    margin-top: 50px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.gence2 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat2 {
+    margin-left: 430px;
+    width: 49%;
+}
+
+.basliq3 {
+    margin-top: 50px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.gence3 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat3 {
+    margin-left: 420px;
+    width: 50%;
+}
+
+.basliq4 {
+    margin-top: 30px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.gence4 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat4 {
+    margin-left: 430px;
+    width: 50%;
+}
+
+.basliq5 {
+    margin-top: 30px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.gence5 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat5 {
+    margin-left: 440px;
+    width: 50%;
+}
+
+.basliq6 {
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.gence6 {
+    margin-left: 415px;
+}
+
+.melumat6 {
+    margin-left: 460px;
+    width: 48%;
+}
+
+.basliq7 {
+    margin-top: 50px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.gence7 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat7 {
+    margin-left: 435px;
+    width: 49%;
+}
+
+.basliq8 {
+    margin-top: 50px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.gence8 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat8 {
+    margin-left: 428px;
+    width: 50%;
+}
+
+.basliq9 {
+    margin-top: 30px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.gence9 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat9 {
+    margin-left: 430px;
+    width: 50%;
+}
+
+.basliq10 {
+    margin-top: 30px;
+    margin-left: 420px;
+    font-size: 27px;
+}
+
+.gence10 {
+    margin-top: 40px;
+    margin-left: 415px;
+}
+
+.melumat10 {
+    margin-left: 440px;
+    width: 49%;
+}
